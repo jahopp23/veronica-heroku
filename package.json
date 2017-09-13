@@ -1,0 +1,24 @@
+{
+  "name": "veronica-adams-photography",
+  "version": "1.0.0",
+  "description": "Veronica A. Adams Photography ~ Heroku Deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahopp23/veronica-heroku.git"
+  },
+  "author": "John A. Hopper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahopp23/veronica-heroku/issues"
+  },
+  "homepage": "https://github.com/jahopp23/veronica-heroku#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.4"
+  }
+}
